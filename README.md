@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Antonnia</h1>
 <h3 align="center">A passionate aspiring data analyst in the UK</h3>
 
-- 🔭 I’m currently working on [Python-course AL/AI](https://github.com/antonnia29/PythonCourse-ML-AI)
+- 🔭 I’m currently working on [Python-course ML/AI](https://github.com/antonnia29/PythonCourse-ML-AI)
 
 - 🌱 I’m currently learning **data preprocessing, visualisations, decision trees classifiers**
 
